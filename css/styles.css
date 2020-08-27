@@ -195,3 +195,13 @@ hr{
 	border-radius: 20px;
 	text-decoration: none;
 }
+
+
+@media screen and (max-width: 480px){
+	.top-cloud {
+	position: relative;
+	right: -25%;
+	top: -40px;
+}
+
+}
